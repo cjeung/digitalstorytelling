@@ -1,0 +1,22 @@
+h2{
+    color:blue;
+    font-family:helvetica;
+    border:5px solid lavenderblush;
+    padding: 50px;
+}
+
+p{
+    color:rgb(138, 71, 172);
+    font-family:'Courier New', Courier, monospace
+}
+
+body{
+    background-color:aliceblue;
+}
+
+img{
+    border:5px solid papayawhip;
+    height: 75%;
+    width: 75%;
+    margin-left: 100px;
+}
